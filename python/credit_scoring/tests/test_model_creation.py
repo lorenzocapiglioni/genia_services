@@ -9,7 +9,6 @@ from pathlib import Path
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-
 try:
     from src.training.model import CreditScoringModel
 except ImportError:

@@ -1,0 +1,3 @@
+['remote "genia_services"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/lcapiglioni/genia_services.s3
